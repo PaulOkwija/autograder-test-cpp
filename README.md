@@ -1,4 +1,6 @@
-### Description:
+This is a test repository used to implement and debug the GitHub Classroom auto grader feature for C++ classes.
+
+## Sample Question
 A survey was carried out to record the ages of dogs in a given town. The records are made in the format; \
 ### **14571259254.83**
 - where the number 14571259254 represents 11 age entries of the dogs in the town and the number 83 captures 2 entries representing the number of male and female dogs in that town.\
